@@ -41,5 +41,4 @@ class SelectSort
         $array[$indexB] = $temp;
     }
 
-
 }
