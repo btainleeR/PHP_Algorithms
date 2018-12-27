@@ -10,3 +10,4 @@ i do not know,just prac.
 | cate   | algorithm |  O    |
 |------|--------|-----|
 | Sort  |   SelectionSort|O(N<sup>2</sup>)|
+|Sort|InsertionSort|O()|
