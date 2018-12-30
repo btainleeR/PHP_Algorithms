@@ -16,7 +16,9 @@
     "autoload": {
         "psr-4": {
           "InterfaceR\\": "src/Interface",
-          "Sort\\Select\\": "src/Sort/Select"
+          "Sort\\Select\\": "src/Sort/Select",
+          "Sort\\Insertion\\": "src/Sort/Insertion",
+          "Sort\\Shell\\": "src/Sort/Shell"
         }
     }
 }

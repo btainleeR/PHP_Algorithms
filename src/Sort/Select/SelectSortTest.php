@@ -6,7 +6,6 @@
  * Time: 9:29 AM
  */
 namespace Sort\Select;
-use InterfaceR\Comparable;
 require_once '../../../vendor/autoload.php';
 
 class SelectSortTest
