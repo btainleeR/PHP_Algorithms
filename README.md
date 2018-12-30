@@ -1,4 +1,4 @@
-Just some algorithms with php,not a tool package.  
+Just some algorithms with php,not a tool package.But you can use these algorithms like xxxTest.php do.  
 why composer package?  
 i do not know,just prac.
 
@@ -10,4 +10,5 @@ i do not know,just prac.
 | cate   | algorithm |  O    |
 |------|--------|-----|
 | Sort  |   SelectionSort|O(N<sup>2</sup>)|
-|Sort|InsertionSort|O()|
+|Sort|InsertionSort|O(N<sup>2</sup>)|
+|Sort|ShellSort|O(N<sup>1/5</sup>)
