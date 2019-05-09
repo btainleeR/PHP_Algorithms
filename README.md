@@ -1,6 +1,5 @@
 Just some algorithms with php,not a tool package.But you can use these algorithms like xxxTest.php do.  
-why composer package?  
-i do not know,just prac.
+
 
 ### Basic Frame  
 - Every Sort Algorithm contains three files.```Data File```, ```Sort Algorithm File``` and ```Test File```. DataClass in Data File implement Comparable Interface class in ```src/Interface/Comparable.php``` .
